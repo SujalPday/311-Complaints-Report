@@ -44,7 +44,7 @@ This project taught me how important it is to get all your work organised as it 
 
 To run the project in your local environment:
 
-1. Download the (link the 311.py file) file and the (link the Cleaned data file) file into your system.
+1. Download the [311](https://github.com/SujalPday/311-Complaints-Report/blob/main/311.py "Go to 311.py file") file and the [Excel](https://drive.google.com/file/d/1Vy8GZci3jPBS1nfQBVY86i_bqmr9kTvh/view?usp=drive_link "Link to the Excel file") file into your system.
 2. Download the "Pandas", "Matplotlib", "Seaborn" modules for python.
 3. Copy the location of the directory where you saved the database file.
 4. Open the "311.py" file.
